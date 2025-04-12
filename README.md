@@ -37,4 +37,4 @@ which improves upon traditional hierarchical models by using a basis expansion f
 - Helen Keetley, Monelli Esfandiary, Sameh Boktor, Thomas McAndrew. Influenza Forecasting: Enhancing Pennsylvania’s Health Preparedness, September 2023. CSTE Infectious Disease Forecasting Workshop, Atlanta, Georgia.
 
 ### Future Goals
-As an incoming Biostatistics Masters student I plan to further solidify the theoretical background I will need for a career in biostatiscs. I additionally hope to build on the multiple experiences I have had with Bayesian statatistics since this is an area that is specificallly interesting to me. 
+As an incoming Biostatistics Masters student I plan to further solidify the theoretical background I will need for a career in biostatistics. I additionally hope to build on the multiple experiences I have had with Bayesian statistics since this is an area that is specificallly interesting to me. 
